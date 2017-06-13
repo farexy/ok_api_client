@@ -1,0 +1,13 @@
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\OdnoklassnilkiAppPromoInfo.exe.config
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\OdnoklassnilkiAppPromoInfo.exe
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\OdnoklassnilkiAppPromoInfo.pdb
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\Newtonsoft.Json.dll
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\Newtonsoft.Json.xml
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\obj\Debug\OdnoklassnilkiAppPromoInfo.csprojResolveAssemblyReference.cache
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\obj\Debug\OdnoklassnilkiAppPromoInfo.exe
+c:\users\o.topchii\documents\visual studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\obj\Debug\OdnoklassnilkiAppPromoInfo.pdb
+C:\Users\o.topchii\Documents\Visual Studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\obj\Debug\OdnoklassnilkiAppPromoInfo.csproj.App.config
+C:\Users\o.topchii\Documents\Visual Studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\o.topchii\Documents\Visual Studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\o.topchii\Documents\Visual Studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\o.topchii\Documents\Visual Studio 2012\Projects\OdnoklassnilkiAppPromoInfo\OdnoklassnilkiAppPromoInfo\bin\Debug\System.Net.Http.Primitives.xml
